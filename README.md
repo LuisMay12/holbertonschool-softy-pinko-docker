@@ -16,7 +16,7 @@ With Docker, you can also quickly **scale your application** by running multiple
 
 ## 🏗️ High-level Design
 
-In this project, you will create an infrastructure for an application that utilizes:
+Ths¿is create an infrastructure for an application that utilizes:
 
 - A **reverse proxy**  
 - A **load balancer**  
@@ -81,13 +81,3 @@ This ensures fairness and avoids overwhelming a single server.
 - [Docker Compose Overview](https://docs.docker.com/compose/)  
 - [Reverse Proxy Explained](https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/)  
 
----
-
-## ✅ Summary
-
-This project will help you build a **Docker-based infrastructure** with a reverse proxy, load balancer, and multiple servers.  
-By the end, you’ll understand how to:  
-- Containerize applications  
-- Use Docker Compose for orchestration  
-- Implement load balancing (Round Robin)  
-- Route traffic effectively using a reverse proxy
